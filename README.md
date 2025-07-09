@@ -2,13 +2,13 @@
 
 🎓 M.S. in Quantitative Computational Finance @ Georgia Tech  
 🎓 B.S. in Industrial and Systems Engineering *(Analytics and Data Science Concentration)* @ Georgia Tech  
-📊 Incoming Advanced Data and Analytics Intern @ Wells Fargo  
+📊 Current Data Science Intern @ Wells Fargo  
 💡 Passionate about data, optimization, data visualization, and solving real-world problems with machine learning.
 
 ---
 
 ## 🧠 About Me
-- 🔍 Currently exploring **quantitative finance** and **predictive analytics**
+- 🔍 Currently exploring **data science** and **quantitative analytics**
 - 🛠️ Skilled in **Python**, **R**, **SQL**, **SAS**, and **Tableau**
 - 🚀 Created optimization and forecasting tools for the **Atlanta Braves** as part of a senior design project
 - 🧠 Built a CNN to classify brain tumors from MRI scans with **90.3% accuracy**
