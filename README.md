@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 - 🔍 Currently exploring **data science** and **quantitative analytics**
-- 🛠️ Skilled in **Python**, **R**, **SQL**, **SAS**, and **Tableau**
+- 🛠️ Skilled in **Python**, **SQL**, **R**, **SAS**, **Tableau**, and **Power BI**
 - 🚀 Created optimization and forecasting tools for the **Atlanta Braves** as part of a senior design project
 - 🧠 Built a CNN to classify brain tumors from MRI scans with **90.3% accuracy**
 - 🗂 Automated reporting workflows at **NCR** during my first internship, cutting monthly report time by 54%
@@ -24,7 +24,6 @@
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![SAS](https://img.shields.io/badge/-SAS-0272BA?style=flat&logo=sas&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 **Data Science & Visualization**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
