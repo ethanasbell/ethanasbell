@@ -2,18 +2,6 @@
 
 🎓 M.S. in Quantitative Computational Finance @ Georgia Tech  
 🎓 B.S. in Industrial and Systems Engineering *(Analytics and Data Science Concentration)* @ Georgia Tech  
-📊 Current Data Science Intern @ Wells Fargo  
-💡 Passionate about data, optimization, data visualization, and solving real-world problems with machine learning.
-
----
-
-## 🧠 About Me
-- 🔍 Currently exploring **data science** and **quantitative analytics**
-- 🛠️ Skilled in **Python**, **SQL**, **R**, **SAS**, **Tableau**, and **Power BI**
-- 🚀 Created optimization and forecasting tools for the **Atlanta Braves** as part of a senior design project
-- 🧠 Built a CNN to classify brain tumors from MRI scans with **90.3% accuracy**
-- 🗂 Automated reporting workflows at **NCR** during my first internship, cutting monthly report time by 54%
-- 📊 Enhanced healthcare consulting workflows at **Mercer** in my previous internship by identifying inefficiencies and actionable insights
 
 ---
 
@@ -40,8 +28,6 @@
 ✉️ asbellethan@gmail.com
 
 ---
-
-_Thanks for visiting! Feel free to check out my pinned repositories for some of my favorite work._
 
 <!--
 **ethanasbell/ethanasbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
